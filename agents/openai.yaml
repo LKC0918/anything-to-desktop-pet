@@ -1,0 +1,4 @@
+interface:
+  display_name: "万物都可以做成桌宠"
+  short_description: "把角色、物件或游戏素材做成可运行、可交互、可验证的桌宠应用"
+  default_prompt: "请使用 $anything-to-desktop-pet，把我提供的角色、图片、GIF 或物件创意做成可运行的桌宠，先检查素材与项目，再完成动画、交互和验证。"
